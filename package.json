@@ -1,16 +1,16 @@
 {
-"name": "mbclub",
-"theme": "mbclub",
-"version": "6.9.10",
-"description": "mbclub ทางเข้าเว็บพนันเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
-"keywords": [
-"mbclub",
-"mbclub เครดิตฟรี",
-"mbclub ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mbclub",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mbclub",
+  "theme": "mbclub",
+  "version": "6.10.0",
+  "description": "mbclub ทางเข้าเว็บพนันเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "mbclub",
+    "mbclub เครดิตฟรี",
+    "mbclub ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mbclub",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
